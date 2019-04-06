@@ -1,15 +1,3 @@
-'''
-
-INST326 Object-Oriented Programming
-Section 0201
-Homework 8
-Christopher Truong
-Fall 2017
-
-'''
-
-
-
 class BankAccount():
     def __init__(self, owner='unknown', checking=0, savings=0):
         self._owner = owner
