@@ -2,7 +2,7 @@
 This section includes projects focused on automated collection of large data sets, and extraction,
 transforming, and reformatting a variety of data and fle types. 
 
-Tools include SQL, Regular Expressions, XML, JSON, and Web Scraping. 
+Tools include Python, SQL, Regular Expressions, XML, JSON, and Web Scraping. 
 
 The projects go through various processes including:
 
