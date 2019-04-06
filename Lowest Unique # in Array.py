@@ -1,4 +1,7 @@
-# You are playing a game with several friends. Each of your friends chooses a number between 1 and 9 (inclusive) and writes it down on a piece of paper. You, as the judge, collect all the papers and must determine the winner. The winner of the game is the player who submitted the lowest unique number.
+# You are playing a game with several friends. Each of your friends chooses a number between 1 and 9 (inclusive) and writes it down
+# on a piece of paper.
+# You, as the judge, collect all the papers and must determine the winner. The winner of the game is the player who submitted the 
+# lowest unique number.
 # There are 10-20 players in the game.
 #
 # Input:
